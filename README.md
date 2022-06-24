@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ExpressJS, MongoDB
 - 🤔 I’m looking for help with Javascript/Java/QA
 - 💬 Ask me about anything you have on your mind.
-- 📫 How to reach me: https://discordapp.com/users/478950794914299925/
+- 📫 How to reach me: Discord: https://discordapp.com/users/478950794914299925/
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I like to hit the gym, watch TV series and play video game - World of warcraft :) 
 -->
