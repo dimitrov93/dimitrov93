@@ -9,5 +9,4 @@
 - ⚡ Fun fact: I like to hit the gym, watch TV series and play video game - World of warcraft :) 
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dimitrov93)](https://git.io/awesome-stats-card)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)](https://ra1nbow.xyz?ref=github)
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)]()
