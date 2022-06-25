@@ -27,4 +27,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dimitrov93)](https://git.io/awesome-stats-card)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimitrov93)](https://github.com/dimitrov93)
+
+
 
