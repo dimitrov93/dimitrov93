@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ExpressJS, MongoDB
 - 🤔 I’m looking for help with Javascript/Java/QA
 - 💬 Ask me about anything you have on your mind.
-- 📫 How to reach me: <a href="linkedin.com/in/tsvetomir-dimitrov-921678238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceko" height="30" width="40" /></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/tsvetomir-dimitrov-921678238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceko" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dimitrovtsvetomir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ceko" height="30" width="40" /></a>
 <a href="https://discordapp.com/users/478950794914299925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ceko" height="30" width="40" /></a>
 - 😄 Pronouns: He/his
