@@ -1,5 +1,6 @@
-### Hi there 👋
+<p align="center"><img width="80%" alt="Hello, I'm Tseko!" src="./src/helloWorld.png" /></p>
 
+<br />
 - 🔭 I’m currently working in the Retails as Sales/support agent
 - 🌱 I’m currently learning ExpressJS, MongoDB
 - 🤔 I’m looking for help with Javascript/Java/QA
