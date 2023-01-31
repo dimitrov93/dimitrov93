@@ -30,6 +30,5 @@
 ### Other
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=1572B6)
-![Microsoft](https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/dimitrov93)](https://git.io/awesome-stats-card)
