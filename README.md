@@ -1,9 +1,8 @@
 <p align="center"><img width="1000%" alt="Hello, I'm Tseko!" src="./src/helloWorld.png" /></p>
 
 
-- 🔭 I’m currently working in the Retails as Sales/support agent
-- 🌱 I’m currently learning ExpressJS, MongoDB
-- 🤔 I’m looking for help with Javascript/Java/QA
+- 🔭 I’m currently working in the Retails as Team Lead
+- 🏆 Aiming to become a excellent Full Stack Web Developer
 - 💬 Ask me about anything you have on your mind.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/tsvetomir-dimitrov-921678238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceko" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dimitrovtsvetomir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ceko" height="30" width="40" /></a>
